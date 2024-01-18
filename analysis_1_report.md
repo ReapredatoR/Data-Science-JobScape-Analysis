@@ -27,6 +27,7 @@ Comparative Analysis with Other Categories:
 
 ![Analysis Plot](/Plots/analysis1_plot1.png)
 ![Analysis Plot](/Plots/analysis1_plot2.png)
+![Analysis Plot](/Plots/analysis1_plot3.png)
 
 • I utilised line graphs to illustrate the trends for Data Science and other selected categories over time.
 • I plotted the number of jobs against each year for comparative analysis.
