@@ -2,58 +2,65 @@
 
 **Executive Summary**
 
-This report meticulously analyses the trends observed in the "Data Science and Research" job category compared to other data-related job categories over the years (2020 to 2023). The objective is to provide detailed insights into the performance of data science jobs relative to their counterparts in the industry.
+This comprehensive report delves into the intricate details of trends within the "Data Science and Research" job category, juxtaposed against other data-related job categories from 2020 to 2023. The primary aim is to offer nuanced insights into the performance of data science jobs about their counterparts within the dynamic data industry.
 
 **Analysis: Data Science Job Trends Over Time**
 
 **Overview**
 
-Explored the temporal trends of data science jobs from 2020 to 2023.
-Compare trends in the "Data Science and Research" job category with other data-related job categories.
+The analysis involves meticulously examining temporal trends in data science jobs from 2020 to 2023. Furthermore, it includes a comparative study of trends in the "Data Science and Research" job category with other prominent data-related job categories.
 
 **Key Findings**
 
-Data Science and Research Job Trends:
-**• There was a notable increase in the number of jobs, reaching 1217 in 2023.**
-**• A significant surge in job opportunities showcased a growth rate of 260% from 2022 to 2023.**
+_Data Science and Research Job Trends:_
 
-Comparative Analysis with Other Categories:
+- There was a substantial surge in job opportunities, reaching 29 in 2020 and 71 in 2021, showcasing a consistent upward trajectory.
+- The peak was reached in 2023 with 1217 jobs, representing a noteworthy growth rate of 260% from 2022 to 2023.
 
-• Data Engineering: 813 jobs in 2023, experiencing a growth rate of 184% from 2022.
-• Data Analysis: 581 jobs in 2023, showcasing a growth rate of 214% from 2022.
-• Machine Learning and AI: 713 jobs in 2023, indicating a growth rate of 353% from 2022.
+_Comparative Analysis with Other Categories:_
+
+- _Data Engineering:_ Recorded 17 jobs in 2020, increased to 44 in 2021, and experienced substantial growth to 813 jobs in 2023, reflecting growth rates of 159% and 184% from 2020 to 2021 and 2022 to 2023, respectively.
+- _Data Analysis:_ Showcased 15 jobs in 2020, increased to 28 in 2021, and further surged to 581 jobs in 2023, demonstrating growth rates of 87% and 214% from 2020 to 2021 and from 2022 to 2023, respectively.
+- _Machine Learning and AI:_ Registered ten jobs in 2020, increased to 37 in 2021, and soared to 713 jobs in 2023, indicating growth rates of 270% and 353% from 2020 to 2021 and 2022 to 2023, respectively.
 
 **Visual Representation**
 
 ![Analysis Plot](/Plots/analysis1_plot1.png)
+
 ![Analysis Plot](/Plots/analysis1_plot2.png)
+
 ![Analysis Plot](/Plots/analysis1_plot3.png)
 
-• I utilised line graphs to illustrate the trends for Data Science and other selected categories over time.
-• I plotted the number of jobs against each year for comparative analysis.
+- Line graphs were employed to visually present the trends for Data Science and other selected categories over time.
+- The number of jobs was graphically represented against each year for practical comparative analysis.
 
-Comparative Analysis with Other Categories
+**Comparative Analysis with Other Categories**
 
-Compared Data Science and Research job trends with categories like Data Engineering, Data Analysis, Machine Learning AI, etc.
+Comparative evaluation of Data Science and Research job trends with categories like Data Engineering, Data Analysis, Machine Learning AI, etc.
 
-Percentage Comparison:
+**Percentage Comparison:**
 
-• Data Science and Research outpaced Data Engineering and Data Analysis by 49% and 26%, respectively, in terms of growth from 2022 to 2023.
-• Machine Learning and AI exhibited the highest growth rate at 353%, but Data Science and Research maintained a competitive growth rate.
+- Data Science and Research surpassed Data Engineering and Data Analysis by 71% and 26%, respectively, in terms of growth from 2022 to 2023.
+- Machine Learning and AI exhibited the highest growth rate at 353%, although Data Science and Research maintained a commendable growth rate.
 
 **Conclusion**
 
-Data Science and Research:
+_Data Science and Research:_
 
-• Demonstrates consistent growth, outpacing several other data-related job categories.
-• The surge in 2023 signifies a remarkable demand, contributing to a 260% growth.
+- Demonstrates consistent growth, outperforming several other data-related job categories.
+- The surge in 2023 signifies remarkable demand, contributing to a substantial 260% growth.
 
-Recommendations
+**Recommendations**
 
-• Organisations: Consider the unique growth pattern of Data Science roles for strategic talent acquisition.
-• Job Seekers: Recognise the prospects for Data Science roles based on observed trends.
+_For Organisations:_
 
-Future Directions
+- Consider the unique growth pattern of Data Science roles for strategic talent acquisition.
 
-• Future analyses could investigate the factors driving the observed Data Science and Research trends.
-• Investigating the specific skills or qualifications contributing to the growth could provide additional insights.
+_For Job Seekers:_
+
+- Recognise the promising prospects for Data Science roles based on observed trends.
+
+**Future Directions**
+
+- Future analyses could explore the factors propelling the observed Data Science and Research trends.
+- Investigating specific skills or qualifications contributing to growth could offer additional insights into the evolving landscape.
