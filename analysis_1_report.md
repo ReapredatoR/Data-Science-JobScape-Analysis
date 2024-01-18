@@ -14,9 +14,8 @@ Compare trends in the "Data Science and Research" job category with other data-r
 #Key Findings
 
 Data Science and Research Job Trends:
-
-• There was a notable increase in the number of jobs, reaching 1217 in 2023.
-• A significant surge in job opportunities showcased a growth rate of 260% from 2022 to 2023.
+**• There was a notable increase in the number of jobs, reaching 1217 in 2023.**
+**• A significant surge in job opportunities showcased a growth rate of 260% from 2022 to 2023.**
 
 Comparative Analysis with Other Categories:
 
